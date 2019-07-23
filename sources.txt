@@ -1,0 +1,14 @@
+Sources:
+
+https://github.com/VeteranNinja/AI_Programming_with_Python_Nanodegree
+
+
+Transfer learning from Pytorch
+https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html
+
+Comparison of Deep Learning Models for Image Classification 
+https://blog.paralleldots.com/data-science/must-read-path-breaking-papers-about-image-classification/
+
+Summary of the current state of Image Classification
+https://towardsdatascience.com/deep-learning-for-image-classification-why-its-challenging-where-we-ve-been-and-what-s-next-93b56948fcef
+
